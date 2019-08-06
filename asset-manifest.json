@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ghpages-deploy/static/css/main.2cce8147.chunk.css",
+    "main.js": "/ghpages-deploy/static/js/main.35db81a0.chunk.js",
+    "main.js.map": "/ghpages-deploy/static/js/main.35db81a0.chunk.js.map",
+    "runtime~main.js": "/ghpages-deploy/static/js/runtime~main.2bb61d0a.js",
+    "runtime~main.js.map": "/ghpages-deploy/static/js/runtime~main.2bb61d0a.js.map",
+    "static/js/2.b41502e9.chunk.js": "/ghpages-deploy/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/ghpages-deploy/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/ghpages-deploy/index.html",
+    "precache-manifest.42f102975a870e0f2f605389c7889352.js": "/ghpages-deploy/precache-manifest.42f102975a870e0f2f605389c7889352.js",
+    "service-worker.js": "/ghpages-deploy/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/ghpages-deploy/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/ghpages-deploy/static/media/logo.5d5d9eef.svg"
+  }
+}
