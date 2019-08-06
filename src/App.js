@@ -18,6 +18,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Some data here</p>
       </header>
     </div>
   );
